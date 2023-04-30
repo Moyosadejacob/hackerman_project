@@ -30,8 +30,8 @@ pip install autogluon streamlit jupyter
 ### Test your installation as follows
 .....
 on the terminal type :python and it will show something like this;
-(redzone_proj) C:\redoneproj\Telco_customer_churn>python
-Python 3.9.16 (main, Jan 11 2023, 16:16:36) [MSC v.1916 64 bit (AMD64)] on win32
+(finalprojenv) C:\Users\Omistaja\OneDrive\Documents\data_RedZone\workspace_data\datahackman_finalproject\hackerman_project>python
+Python 3.9.16 (main, April 25 2023, 16:16:36) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>from autogluon.tabular import TabularDataset, TabularPredictor
 ....
